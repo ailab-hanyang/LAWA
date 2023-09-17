@@ -13,10 +13,10 @@ Comparison with:
 <img src="./images/figure_scatter_result.png" width="800">
 
 ## Result of semantic segmentation using real world adverse weather dataset
-- KONKUK Ailab dataset
+- ***KONKUK Ailab dataset***
 <img src="./images/figure_real_quality_result.png" width="800">
 
-- KITTI Dataset
+- ***KITTI Dataset***
 <img src="./images/quality_result.png" width="800">
 
 ## Contact
