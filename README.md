@@ -1,7 +1,7 @@
 # LAWA: LiDAR Adverse Weather Augmentation for Robust Point Cloud Semantic Segmentation
 LAWA: LiDAR Adverse Weather Augmentation for Robust Point Cloud Semantic Segmentation
 
-The code will be uploaded by January 2024!
+The code will be uploaded after the review process!
 
 ## Demo
 
